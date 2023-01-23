@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arthur</h1>
+<h1 align="center">Howdy 👋, I'm Arthur</h1>
 <h3 align="center">A junior full-stack developer from France</h3>
 
 - 📫 How to reach me **arthurfouc@gmail.com**
